@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">PaySense</string>
+    <string name="app_name">Paysense</string>
+    <string name="search">Search Image</string>
+    <string name="PIXABAY_API_KEY">13705414-ab79c6cfc46469721f4dfde6c</string>
+    <string name="no_internet">We could not find an active internet connection…</string>
+    <string name="error">Something is not right…</string>
+    <string name="retry">RETRY</string>
+    <string name="no_results">No results for the query.</string>
+
 </resources>
